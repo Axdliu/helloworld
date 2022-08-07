@@ -1,5 +1,5 @@
 {
-    "name": "HelloWorld",
+    "name": "Counter",
     "description": "",
     "dependencies": {
         "core": "*",
